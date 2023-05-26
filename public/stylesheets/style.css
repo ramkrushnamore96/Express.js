@@ -1,0 +1,10 @@
+body {
+  padding: 50px;
+  font: 14px "fantasy";
+  background-color: aqua;
+  border: 5px solid black;
+}
+
+a {
+  color: #00B7FF;
+}
